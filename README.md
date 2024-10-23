@@ -1,8 +1,3 @@
----
-title: SP2024_HW2 Release
-
----
-
 SP2024_HW2 Release
 ---
 
