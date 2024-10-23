@@ -1,0 +1,18 @@
+Not_Tako has met A by himself
+Not_Tako has met C through A
+Not_Tako has met D through A
+Not_Tako has met B by himself
+Not_Tako has met E through B
+A_01
+C_03 D_04
+B_02
+E_05
+Not_Tako has met A by himself
+Not_Tako has met C through A
+Not_Tako has met D through A
+Not_Tako has met B by himself
+Not_Tako has met E through B
+Not_Tako
+A_01 B_02
+C_03 D_04 E_05
+Congratulations! You've finished Not_Tako's annoying tasks!

@@ -1,0 +1,76 @@
+Not_Tako has met Alpha by himself
+Not_Tako has met Beta by himself
+Not_Tako has met Mu by himself
+Not_Tako has met Nu through Mu
+Not_Tako has met Xi through Nu
+Mu has adopted Xi
+Not_Tako has met Omicron through Xi
+Not_Tako
+Alpha_11 Beta_22 Mu_30
+Nu_40 Xi_20
+Omicron_60
+Not_Tako has met RHO through Beta
+Not_Tako has met Hro through RHO
+Not_Tako
+Alpha_11 Beta_22 Mu_30
+RHO_76 Nu_40 Xi_20
+Hro_17 Omicron_60
+Not_Tako has adopted Omicron
+Not_Tako
+Alpha_11 Beta_22 Mu_30 Omicron_60
+RHO_76 Nu_40 Xi_20
+Hro_17
+Not_Tako has met Omega through Alpha
+Not_Tako has met Kappa through Beta
+Alpha is a descendant of Not_Tako
+Not_Tako
+Alpha_11 Beta_22 Mu_30 Omicron_60
+Omega_02 RHO_76 Kappa_33 Nu_40 Xi_20
+Hro_17
+Not_Tako has met Gamma by himself
+Xi has adopted Alpha
+Not_Tako has met Epsilon through Gamma
+Epsilon is a descendant of Not_Tako
+Omega_02
+Not_Tako has met Never through Alpha
+Beta has adopted Gamma
+Beta_22
+RHO_76 Kappa_33 Gamma_11
+Hro_17 Epsilon_11
+Not_Tako has met Zeta through Gamma
+Not_Tako has met Gonna through Never
+Nu has adopted Epsilon
+Not_Tako
+Beta_22 Mu_30 Omicron_60
+RHO_76 Kappa_33 Gamma_11 Nu_40 Xi_20
+Hro_17 Zeta_66 Epsilon_11 Alpha_11
+Omega_02 Never_18
+Gonna_17
+Mu has adopted RHO
+Not_Tako has met Give through Gonna
+Xi has adopted Omicron
+Not_Tako
+Beta_22 Mu_30
+Kappa_33 Gamma_11 Nu_40 Xi_20 RHO_16
+Zeta_66 Epsilon_11 Alpha_11 Omicron_00 Hro_17
+Omega_02 Never_18
+Gonna_17
+Give_12
+Alpha has adopted Zeta
+Alpha_11
+Omega_02 Never_18 Zeta_00
+Gonna_17
+Give_12
+Not_Tako has adopted Alpha
+Not_Tako
+Beta_22 Mu_30 Alpha_11
+Kappa_33 Gamma_11 Nu_40 Xi_20 RHO_16 Omega_02 Never_18 Zeta_00
+Epsilon_11 Omicron_00 Hro_17 Gonna_17
+Give_12
+Not_Tako has met You through Give
+Not_Tako has met Up through You
+Never_18
+Gonna_17
+Give_12
+You_12
+Up_29

@@ -1,0 +1,14 @@
+Not_Tako has met Alpha by himself
+Not_Tako has met Beta by himself
+Alpha_11
+Not_Tako has met Gamma by himself
+Not_Tako has met Delta by himself
+Not_Tako has met Epsilon by himself
+Epsilon_55
+Not_Tako has met Zeta by himself
+Not_Tako has met Eta by himself
+Zeta_66
+Not_Tako has met Theta by himself
+Not_Tako
+Beta_22 Gamma_33 Delta_44 Eta_77 Theta_88
+Congratulations! You've finished Not_Tako's annoying tasks!

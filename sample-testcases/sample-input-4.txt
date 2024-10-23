@@ -1,0 +1,13 @@
+Meet Not_Tako A_01
+Meet A C_03
+Meet A D_04
+Meet Not_Tako B_02
+Meet B E_05
+Graduate A
+Graduate B
+Meet Not_Tako A_01
+Meet A C_03
+Meet A D_04
+Meet Not_Tako B_02
+Meet B E_05
+Graduate Not_Tako

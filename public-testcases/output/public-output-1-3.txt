@@ -1,0 +1,20 @@
+Not_Tako has met Alpha by himself
+Not_Tako has met Beta through Alpha
+Not_Tako has met Gamma through Beta
+Not_Tako does not know Delta to meet Epsilon
+Not_Tako has met Delta through Gamma
+Not_Tako does not know Epsilon to meet Zeta
+Not_Tako does not know Zeta to meet Eta
+Not_Tako does not know Theta to meet Iota
+Not_Tako has met Kappa by himself
+Not_Tako has met Lambda through Kappa
+Not_Tako has met Mu through Lambda
+Not_Tako has met Nu through Mu
+Not_Tako has met Xi through Nu
+Not_Tako has met Omicron through Xi
+Not_Tako does not know Rho to meet Sigma
+Not_Tako has met Pi through Omicron
+Not_Tako has met Rho through Pi
+Not_Tako does not know Sigma to meet Tau
+Not_Tako has met Omega by himself
+Not_Tako has met Kappa through Beta

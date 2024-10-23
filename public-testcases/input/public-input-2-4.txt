@@ -1,0 +1,34 @@
+Meet Not_Tako Alpha_11
+Meet Alpha Beta_22
+Check Not_Tako
+Meet Beta Gamma_33
+Check Kappa
+Meet Gamma Delta_44
+Meet Delta Epsilon_55
+Check Not_Tako
+Meet Alpha Zeta_66
+Meet Zeta Eta_77
+Check Alpha
+Meet Theta Iota_88
+Meet Not_Tako Kappa_99
+Check Beta
+Meet Kappa Lambda_20
+Meet Lambda Mu_30
+Check Not_Tako
+Meet Not_Tako Mu_30
+Meet Mu Nu_40
+Meet Nu Xi_50
+Check Omicron
+Meet Xi Omicron_60
+Check Mu
+Check Rho
+Meet Rho Sigma_90
+Meet Alpha Rho_99
+Check Rho
+Check Alpha
+Meet Omicron Pi_70
+Meet Sigma Tau_01
+Check Delta
+Meet Not_Tako Omega_02
+Meet Beta Kappa_33
+Check Iota

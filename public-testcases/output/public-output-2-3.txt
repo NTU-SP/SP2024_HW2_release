@@ -1,0 +1,33 @@
+Not_Tako has met Alpha by himself
+Not_Tako has met Beta through Alpha
+Not_Tako has checked, he doesn't know Theta
+Not_Tako has met Gamma through Beta
+Not_Tako has checked, he doesn't know Kappa
+Not_Tako has met Delta through Gamma
+Not_Tako has met Epsilon through Delta
+Not_Tako has checked, he doesn't know Zeta
+Not_Tako has met Zeta through Epsilon
+Not_Tako has met Eta through Zeta
+Not_Tako has checked, he doesn't know Omega
+Not_Tako does not know Theta to meet Iota
+Not_Tako has met Kappa by himself
+Not_Tako has checked, he doesn't know Rho
+Not_Tako has met Lambda through Kappa
+Not_Tako has met Mu through Lambda
+Not_Tako has checked, he doesn't know Nu
+Not_Tako has met Nu through Mu
+Not_Tako has met Xi through Nu
+Not_Tako has checked, he doesn't know Omicron
+Not_Tako has met Omicron through Xi
+Not_Tako does not know Rho to meet Sigma
+Not_Tako has checked, he doesn't know Pi
+Not_Tako has met Pi through Omicron
+Not_Tako has met Rho through Pi
+Not_Tako does not know Sigma to meet Tau
+Delta_44
+Epsilon_55
+Zeta_66
+Eta_77
+Not_Tako has met Omega by himself
+Not_Tako has met Kappa through Beta
+Not_Tako has checked, he doesn't know Iota

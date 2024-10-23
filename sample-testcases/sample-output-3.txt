@@ -1,0 +1,11 @@
+Not_Tako has met A by himself
+Not_Tako has met C through A
+Not_Tako has met D through A
+Not_Tako has met B by himself
+Not_Tako has met E through B
+D is a descendant of A
+B has adopted A
+Not_Tako
+B_02
+E_05 A_01
+C_01 D_00

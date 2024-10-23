@@ -1,0 +1,24 @@
+Meet Not_Tako Alpha_11
+Meet Not_Tako Beta_22
+Check Not_Tako
+Adopt Not_Tako Alpha
+Check Not_Tako
+Meet Not_Tako Gamma_33
+Meet Not_Tako Delta_44
+Check Beta
+Meet Not_Tako Epsilon_55
+Adopt Alpha Beta
+Check Not_Tako
+Meet Not_Tako Zeta_66
+Adopt Zeta Alpha
+Check Not_Tako
+Meet Not_Tako Eta_77
+Adopt Not_Tako Epsilon
+Check Not_Tako
+Adopt Epsilon Beta
+Check Alpha
+Meet Not_Tako Theta_88
+Adopt Theta Gamma
+Adopt Gamma Delta
+Adopt Not_Tako Alpha
+Check Not_Tako

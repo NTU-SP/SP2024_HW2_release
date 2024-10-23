@@ -1,0 +1,94 @@
+Not_Tako has met Alpha by himself
+Not_Tako
+Alpha_11
+Not_Tako has met Beta through Alpha
+Not_Tako
+Alpha_11
+Beta_22
+Not_Tako has met Gamma through Beta
+Not_Tako
+Alpha_11
+Beta_22
+Gamma_33
+Not_Tako has met Delta through Gamma
+Not_Tako
+Alpha_11
+Beta_22
+Gamma_33
+Delta_44
+Not_Tako has met Epsilon through Delta
+Not_Tako
+Alpha_11
+Beta_22
+Gamma_33
+Delta_44
+Epsilon_55
+Not_Tako has met Zeta through Epsilon
+Not_Tako
+Alpha_11
+Beta_22
+Gamma_33
+Delta_44
+Epsilon_55
+Zeta_66
+Not_Tako has met Eta through Zeta
+Alpha_11
+Beta_22
+Gamma_33
+Delta_44
+Epsilon_55
+Zeta_66
+Eta_77
+Not_Tako has met Theta through Eta
+Beta_22
+Gamma_33
+Delta_44
+Epsilon_55
+Zeta_66
+Eta_77
+Theta_88
+Not_Tako has met Iota through Theta
+Gamma_33
+Delta_44
+Epsilon_55
+Zeta_66
+Eta_77
+Theta_88
+Iota_99
+Not_Tako has met Kappa through Iota
+Delta_44
+Epsilon_55
+Zeta_66
+Eta_77
+Theta_88
+Iota_99
+Kappa_10
+Not_Tako has met Lambda through Kappa
+Epsilon_55
+Zeta_66
+Eta_77
+Theta_88
+Iota_99
+Kappa_10
+Lambda_20
+Zeta_66
+Eta_77
+Theta_88
+Iota_99
+Kappa_10
+Lambda_20
+Eta_77
+Theta_88
+Iota_99
+Kappa_10
+Lambda_20
+Theta_88
+Iota_99
+Kappa_10
+Lambda_20
+Iota_99
+Kappa_10
+Lambda_20
+Kappa_10
+Lambda_20
+Lambda_20

@@ -1,0 +1,35 @@
+Meet Not_Tako Alpha_11
+Meet Alpha Beta_22
+Graduate Theta
+Meet Beta Gamma_33
+Graduate Kappa
+Meet Gamma Delta_44
+Meet Delta Epsilon_55
+Graduate Zeta
+Meet Epsilon Zeta_66
+Meet Zeta Eta_77
+Graduate Alpha
+Meet Not_Tako Theta_99
+Meet Theta Iota_88
+Meet Not_Tako Kappa_99
+Graduate Rho
+Meet Kappa Lambda_20
+Meet Lambda Mu_30
+Graduate Nu
+Meet Mu Nu_40
+Meet Nu Xi_50
+Graduate Omicron
+Meet Xi Omicron_60
+Graduate Omicron
+Meet Rho Sigma_90
+Graduate Pi
+Meet Omicron Pi_70
+Graduate Lambda
+Meet Not_Tako Pi_70
+Meet Pi Rho_80
+Meet Sigma Tau_01
+Graduate Delta
+Meet Not_Tako Omega_02
+Meet Beta Kappa_33
+Graduate Iota
+Graduate Not_Tako

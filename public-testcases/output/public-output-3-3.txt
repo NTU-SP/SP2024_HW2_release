@@ -1,0 +1,47 @@
+Not_Tako has met Alpha by himself
+Not_Tako has met Beta through Alpha
+Not_Tako has checked, he doesn't know Theta
+Not_Tako has met Gamma through Beta
+Not_Tako has checked, he doesn't know Kappa
+Not_Tako has met Delta through Gamma
+Not_Tako has met Epsilon through Delta
+Not_Tako has checked, he doesn't know Zeta
+Not_Tako has met Zeta through Epsilon
+Not_Tako has met Eta through Zeta
+Alpha_11
+Beta_22
+Gamma_33
+Delta_44
+Epsilon_55
+Zeta_66
+Eta_77
+Not_Tako has met Theta by himself
+Not_Tako has met Iota through Theta
+Not_Tako has met Kappa by himself
+Not_Tako has checked, he doesn't know Rho
+Not_Tako has met Lambda through Kappa
+Not_Tako has met Mu through Lambda
+Not_Tako has checked, he doesn't know Nu
+Not_Tako has met Nu through Mu
+Not_Tako has met Xi through Nu
+Not_Tako has checked, he doesn't know Omicron
+Not_Tako has met Omicron through Xi
+Omicron_60
+Not_Tako does not know Rho to meet Sigma
+Not_Tako has checked, he doesn't know Pi
+Not_Tako does not know Omicron to meet Pi
+Lambda_20
+Mu_30
+Nu_40
+Xi_50
+Not_Tako has met Pi by himself
+Not_Tako has met Rho through Pi
+Not_Tako does not know Sigma to meet Tau
+Not_Tako has checked, he doesn't know Delta
+Not_Tako has met Omega by himself
+Not_Tako does not know Beta to meet Kappa
+Iota_88
+Not_Tako
+Theta_99 Kappa_99 Pi_70 Omega_02
+Rho_80
+Congratulations! You've finished Not_Tako's annoying tasks!

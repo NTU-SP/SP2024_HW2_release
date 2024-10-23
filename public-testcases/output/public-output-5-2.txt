@@ -1,0 +1,105 @@
+Not_Tako has met And by himself
+Not_Tako has met Desert through And
+Not_Tako has met You through Desert
+And_99
+Desert_28
+You_17
+Not_Tako has met Im by himself
+Not_Tako has met Tired by himself
+Not_Tako has met AF by himself
+Not_Tako
+Im_57 Tired_18 AF_29
+Not_Tako has checked, he doesn't know Please
+Not_Tako has checked, he doesn't know Me
+Not_Tako has met Let through Im
+Not_Tako has met Me through Let
+Not_Tako has met Die through Tired
+Not_Tako
+Im_57 Tired_18 AF_29
+Let_23 Die_84
+Me_49
+AF has adopted Me
+Not_Tako has adopted Die
+Im has adopted Me
+Im has adopted Die
+Not_Tako
+Im_57 Tired_18 AF_29
+Let_23 Me_20 Die_27
+Im_57
+Let_23 Me_20 Die_27
+Not_Tako has adopted Tired
+AF is a descendant of Not_Tako
+Not_Tako has met Not through Tired
+Not_Tako has met Happy through Not
+Tired has adopted AF
+Tired_18
+Not_18 AF_11
+Happy_23 Me_02
+Not_Tako has met Some by himself
+Not_Tako has met Where by himself
+Not_Tako has met Over by himself
+Not_Tako has met The by himself
+Not_Tako has met Rainbow by himself
+Not_Tako has adopted Some
+Where has adopted Rainbow
+The has adopted Where
+Not_Tako has adopted Over
+Over has adopted The
+Not_Tako has met Skies through Over
+Not_Tako has met Are through Rainbow
+Not_Tako has met Blue through The
+Not_Tako has adopted Where
+Not_Tako has adopted Over
+Where has adopted Rainbow
+The has adopted Skies
+Not_Tako has adopted The
+Not_Tako has met N by himself
+Not_Tako has met i by himself
+Not_Tako has met n by himself
+Not_Tako has met o by himself
+Some has adopted Where
+Rainbow has adopted Over
+Over has adopted The
+Some_47
+Where_12
+Rainbow_10
+Are_02 Over_03
+The_01
+Blue_00 Skies_02
+Not_Tako does not know Meet to meet MAE
+Not_Tako has met INA through o
+Not_Tako has met Nis through i
+Not_Tako does not know MAE to meet Tako
+Not_Tako has met Tako by himself
+Tako is a descendant of Not_Tako
+Tako has adopted N
+Tako has adopted i
+Not_Tako has met Is through Nis
+Not_Tako has met FAN through INA
+Not_Tako has met Of through Tako
+Not_Tako has met Not by himself
+Not_Tako has adopted Tako
+Not_Tako has adopted Is
+Not_Tako has adopted FAN
+Not has adopted Of
+Tako has adopted N
+Tako has adopted i
+Is has adopted n
+Is has adopted o
+Not_Tako
+Not_22 Tako_22 Is_47 FAN_86
+Of_10 N_01 i_02 n_03 o_04
+Nis_05 INA_12
+Not_Tako has met M through o
+Not_Tako has met A through M
+Not_Tako has met E through Nis
+FAN has adopted M
+FAN has adopted A
+N has adopted INA
+FAN has adopted E
+Not_Tako has checked, he doesn't know haha
+Not_Tako
+Not_22 Tako_22 Is_47 FAN_86
+Of_10 N_01 i_02 n_03 o_04 M_85 A_23 E_20
+INA_00 Nis_05
+Congratulations! You've finished Not_Tako's annoying tasks!

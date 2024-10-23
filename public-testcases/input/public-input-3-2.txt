@@ -1,0 +1,23 @@
+Meet Not_Tako Alpha_11
+Meet Alpha Beta_22
+Meet Beta Gamma_33
+Meet Gamma Delta_44
+Meet Delta Epsilon_55
+Meet Epsilon Zeta_66
+Meet Zeta Eta_77
+Graduate Alpha
+Meet Not_Tako Theta_88
+Graduate Beta
+Meet Theta Iota_99
+Graduate Gamma
+Meet Iota Kappa_10
+Graduate Delta
+Meet Kappa Lambda_20
+Graduate Lambda
+Graduate Kappa
+Graduate Zeta
+Graduate Epsilon
+Graduate Eta
+Graduate Theta
+Graduate Iota
+Graduate Not_Tako

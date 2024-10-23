@@ -1,0 +1,80 @@
+Not_Tako has met Never by himself
+Not_Tako has met Gonna through Never
+Not_Tako has met Let through Gonna
+Not_Tako has met You through Let
+Not_Tako has met Down through You
+Not_Tako has met Alpha by himself
+Never_15
+Gonna_28
+Let_17
+You_84
+Down_69
+Not_Tako has met Beta by himself
+Not_Tako has met Omega through Alpha
+Not_Tako has met Gamma through Beta
+Not_Tako has met Zeta through Gamma
+Not_Tako has met Epsilon through Gamma
+Not_Tako has met Mu by himself
+Not_Tako has adopted Alpha
+Beta is a descendant of Not_Tako
+Gamma is a descendant of Beta
+Beta_36
+Gamma_47
+Zeta_38 Epsilon_73
+Not_Tako has met Secret by himself
+Not_Tako has adopted Alpha
+Not_Tako has met Xi through Mu
+Not_Tako has met Omicron through Mu
+Not_Tako has met Eta through Mu
+Not_Tako
+Beta_36 Mu_64 Secret_69 Alpha_74
+Gamma_47 Xi_48 Omicron_53 Eta_82 Omega_94
+Zeta_38 Epsilon_73
+Not_Tako has adopted Beta
+Beta has adopted Gamma
+Zeta has adopted Epsilon
+Not_Tako has adopted Zeta
+Not_Tako
+Mu_64 Secret_69 Alpha_74 Beta_36 Zeta_02
+Xi_48 Omicron_53 Eta_82 Omega_94 Gamma_11 Epsilon_01
+Not_Tako has met Never through Xi
+Not_Tako has met Gonna through Never
+Not_Tako has met Run through Gonna
+Not_Tako has met Around through Run
+Not_Tako has adopted Never
+Never_28
+Gonna_83
+Run_76
+Around_56
+Xi has adopted Alpha
+Mu has adopted Xi
+Beta has adopted Epsilon
+Not_Tako
+Mu_64 Secret_69 Beta_36 Zeta_02
+Omicron_53 Eta_82 Xi_48 Gamma_11 Epsilon_01
+Alpha_26
+Omega_46
+Not_Tako has met Delta through Alpha
+Not_Tako has met Theta through Delta
+Not_Tako has adopted Mu
+Not_Tako has met Rho through Eta
+Rho has adopted Secret
+Not_Tako has adopted Rho
+Mu has adopted Alpha
+Not_Tako
+Beta_36 Zeta_02 Mu_64 Rho_38
+Gamma_11 Epsilon_01 Omicron_53 Eta_82 Xi_48 Alpha_26 Secret_31
+Omega_46 Delta_05
+Theta_30
+Alpha has adopted Xi
+Not_Tako has adopted Gamma
+Gamma has adopted Omicron
+Not_Tako has checked, he doesn't know Never
+Beta_36
+Epsilon_01
+Not_Tako
+Beta_36 Zeta_02 Mu_64 Rho_38 Gamma_11
+Epsilon_01 Eta_82 Alpha_26 Secret_31 Omicron_09
+Omega_46 Delta_05 Xi_22
+Theta_30
+Congratulations! You've finished Not_Tako's annoying tasks!

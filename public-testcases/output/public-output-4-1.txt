@@ -1,0 +1,37 @@
+Not_Tako has met Alpha by himself
+Not_Tako has met Beta by himself
+Not_Tako
+Alpha_11 Beta_22
+Not_Tako has adopted Alpha
+Not_Tako
+Beta_22 Alpha_11
+Not_Tako has met Gamma by himself
+Not_Tako has met Delta by himself
+Beta_22
+Not_Tako has met Epsilon by himself
+Alpha has adopted Beta
+Not_Tako
+Alpha_11 Gamma_33 Delta_44 Epsilon_55
+Beta_00
+Not_Tako has met Zeta by himself
+Zeta has adopted Alpha
+Not_Tako
+Gamma_33 Delta_44 Epsilon_55 Zeta_66
+Alpha_11
+Beta_00
+Not_Tako has met Eta by himself
+Not_Tako has adopted Epsilon
+Not_Tako
+Gamma_33 Delta_44 Zeta_66 Eta_77 Epsilon_55
+Alpha_11
+Beta_00
+Epsilon has adopted Beta
+Alpha_11
+Not_Tako has met Theta by himself
+Theta has adopted Gamma
+Gamma has adopted Delta
+Not_Tako has adopted Alpha
+Not_Tako
+Zeta_66 Eta_77 Epsilon_55 Theta_88 Alpha_11
+Beta_00 Gamma_33
+Delta_11

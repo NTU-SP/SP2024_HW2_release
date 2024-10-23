@@ -1,0 +1,28 @@
+Meet Not_Tako Alpha_11
+Check Not_Tako
+Meet Alpha Beta_22
+Check Not_Tako
+Meet Beta Gamma_33
+Check Not_Tako
+Meet Gamma Delta_44
+Check Not_Tako
+Meet Delta Epsilon_55
+Check Not_Tako
+Meet Epsilon Zeta_66
+Check Not_Tako
+Meet Zeta Eta_77
+Check Alpha
+Meet Eta Theta_88
+Check Beta
+Meet Theta Iota_99
+Check Gamma
+Meet Iota Kappa_10
+Check Delta
+Meet Kappa Lambda_20
+Check Epsilon
+Check Zeta
+Check Eta
+Check Theta
+Check Iota
+Check Kappa
+Check Lambda
