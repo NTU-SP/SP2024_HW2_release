@@ -1,6 +1,17 @@
 SP2024_HW2 Release
 ---
 
+Message From TA:
+--
+`hw2.h` has been updated at time of 12:41 PM, 25th of Oct.
+Changes are as follow:
+```
+#define MAX_FIFO_NAME_LEN 9
+#define MAX_FRIEND_INFO_LEN 12
+#define MAX_FRIEND_NAME_LEN 9
+```
+If you have accepted this assignment before the update, please update the file of your local machine.
+
 [Homework Spec](https://hackmd.io/@rwGDMkdFT2m4A250yFDLPg/BJURLjchC)
 --
 TODO:
