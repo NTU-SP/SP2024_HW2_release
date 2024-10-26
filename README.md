@@ -11,7 +11,9 @@ Changes are as follow:
 #define MAX_FRIEND_NAME_LEN 9
 ```
 
-Update 2: as of 10:23 PM, 25th of Oct, Changes are as follows:
+sample testcases (both input and output) 1 and 2 has been updated at time of 10:23 PM, 25th of Oct.
+Changes are as follows:
+A student has mentioned the name "Rwei" is not unified in sample test cases 1 and 2, switching between "Rwei" and "RWei", this is another mistake from the Homework TA.
 Above mentioned is unified to "Rwei" for sample test cases 1 and 2. 
 
 If you have accepted this assignment before the update, please update the file of your local machine.
