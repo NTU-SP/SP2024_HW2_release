@@ -10,6 +10,10 @@ Changes are as follow:
 #define MAX_FRIEND_INFO_LEN 12
 #define MAX_FRIEND_NAME_LEN 9
 ```
+
+Update 2: as of 10:23 PM, 25th of Oct, Changes are as follows:
+Above mentioned is unified to "Rwei" for sample test cases 1 and 2. 
+
 If you have accepted this assignment before the update, please update the file of your local machine.
 
 [Homework Spec](https://hackmd.io/@rwGDMkdFT2m4A250yFDLPg/BJURLjchC)
